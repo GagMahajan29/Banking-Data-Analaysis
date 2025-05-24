@@ -11,6 +11,6 @@ With the dashboard I created using PowerBI, banks can make data-driven decisions
 2. Python libraries like Pandas, Matplotlib, Seaborn.
 3. Microsoft PowerBI.
 
-
+Snapshot of the first page of the Dashboard:- https://github.com/GagMahajan29/Banking-Data-Analaysis/blob/main/Banking%20Dashboard%20Snapshot.png
 
 
